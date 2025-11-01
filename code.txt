@@ -1,0 +1,43 @@
+<!--	<div class="row">
+			<div class="col1">
+				<img src="images/img1.png" class="img1 img-responsive">
+				<span class="hdg3">Hunters Yard Lodges</span>
+				<span class="star"></span>
+				<span class="rtg1">4.8</span>
+				<span class="loc"><img src="images/map-pin.png"></span>
+				<span class="lbl1">Dublin</span>
+
+				<span class="text1">$459</span>
+				<button type="button" class="btn3">Book now</button>
+
+			</div>
+			<div class="col2">
+				<img src="images/img2.png" class="img2  img-responsive">
+				<span class="hdg3">Rose Cottage</span>
+				<span class="star"></span>
+				<span class="rtg">4.8</span>
+				<span class="loc"><img src="images/map-pin.png"></span>
+				<span class="lbl1">Dublin</span>
+				</span>
+				<span class="text1">$459</span>
+				<button type="button" class="btn3">Book now</button>
+
+
+			</div>
+			<div class="col3">
+				<img src="images/img3.png" class="img3  img-responsive">
+				<span class="hdg3">Summer Stay & Play<br>Package</span>
+				<span class="star"></span>
+				<span class="rtg">4.8</span>
+				<span class="loc"><img src="images/map-pin.png"></span>
+				<span class="lbl1">Dublin</span>
+				</span>
+				<span class="tex1">$459</span>
+				<button type="button" class="btn3">Book now</button>
+			</div>
+		</div>
+		<span class="rad1"></span>
+		<span class="rad2"></span>
+		<span class="rad3"></span>
+		<span class="rad4"></span>
+		<button type="button" class="btn3">See More</button>-->
